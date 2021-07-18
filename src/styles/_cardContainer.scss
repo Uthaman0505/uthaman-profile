@@ -1,0 +1,21 @@
+.card-container {
+  width: 70%;
+  padding: 100px;
+  margin-top: 120px;
+  margin-left: 300px;
+  border: 2px solid black;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  .first-card-container {
+    border: 2px solid black;
+    .left-card-content {
+    }
+  }
+  .second-card-container {
+    border: 2px solid black;
+
+    .right-card-content {
+    }
+  }
+}
